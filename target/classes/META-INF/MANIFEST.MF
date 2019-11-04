@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ff4j-sample-springboot2
+Implementation-Version: 1.8
+Built-By: Stefanini
+Implementation-Vendor-Id: org.ff4j.samples
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ff4j-sample-springboot2
+Created-By: Maven Integration for Eclipse
+Main-Class: org.ff4j.springboot2.Application
+
