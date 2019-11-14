@@ -4,8 +4,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>org.ff4j.samples</groupId>
-	<artifactId>ff4j-sample-springboot2</artifactId>
+	<groupId>org.ff4j.monitor</groupId>
+	<artifactId>ff4j-monitor</artifactId>
 	<version>1.8</version>
 	<packaging>jar</packaging>
 

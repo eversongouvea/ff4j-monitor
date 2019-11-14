@@ -1,9 +1,13 @@
 package org.ff4j.springboot2.config;
 
 import org.ff4j.FF4j;
+import org.ff4j.core.Feature;
+import org.ff4j.property.PropertyInt;
+import org.ff4j.property.PropertyString;
 import org.ff4j.springboot2.consul.ConsulConnection;
 import org.ff4j.springboot2.consul.store.FeatureStoreConsul;
 import org.ff4j.springboot2.consul.store.PropertyStoreConsul;
+import org.ff4j.strategy.el.ExpressionFlipStrategy;
 import org.ff4j.utils.Util;
 import org.ff4j.web.ApiConfig;
 import org.slf4j.Logger;
